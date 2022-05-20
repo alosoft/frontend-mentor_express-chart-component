@@ -20,7 +20,7 @@ header {
 }
 
 .header__circles {
-    width: 6rem;
+    width: 4rem;
     height: 2.5rem;
     position: relative;
 }
@@ -33,7 +33,7 @@ header {
 }
 
 .header__circles-item:first-child{
-    left: 30%;
+    left: 40%;
     background: black;
 }
 

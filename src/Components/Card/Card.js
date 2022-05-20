@@ -2,8 +2,8 @@ import './Card.css';
 
 import React from 'react';
 import Bar from '../Bar/Bar';
+
 const data = require('../../data.json');
-console.log(data)
 
 export default function Card() {
     const amounts = data.map(item => item.amount)
