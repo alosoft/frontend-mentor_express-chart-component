@@ -1,0 +1,42 @@
+header {
+    background: var(--soft-red);
+    width: 100%;
+    border-radius: 1rem;
+    padding: 1.3rem;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__balance{
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+}
+
+.header__balance-title {
+    font-size: .8rem;
+}
+
+.header__circles {
+    width: 6rem;
+    height: 2.5rem;
+    position: relative;
+}
+
+.header__circles-item {
+    width: 2.5rem;
+    height: 2.5rem;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.header__circles-item:first-child{
+    left: 30%;
+    background: black;
+}
+
+.header__circles-item:last-child{
+    border: .1rem solid white;
+}
