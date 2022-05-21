@@ -9,7 +9,7 @@
 }
 
 .bar__block {
-    width: 70%;
+    width: 65%;
     transition: all ease .5s;
     border-radius: .3rem;
     cursor: pointer;
