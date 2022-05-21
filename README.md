@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-chart-component-with-react-flexbox-and-bem-EcvCM8MqKB)
+- Live Site URL: [Expense Component](https://frontend-mentor-express-chart-component.vercel.app/)
 
 ### Built with
 
